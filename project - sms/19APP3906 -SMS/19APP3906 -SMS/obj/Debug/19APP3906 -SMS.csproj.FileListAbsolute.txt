@@ -1,0 +1,55 @@
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\bin\Debug\19APP3906 -SMS.exe.config
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\bin\Debug\19APP3906 -SMS.exe
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\bin\Debug\19APP3906 -SMS.pdb
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\19APP3906 -SMS.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form1.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Properties.Resources.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\19APP3906 -SMS.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\19APP3906 -SMS.exe
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\19APP3906 -SMS.pdb
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form2.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form3.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form4.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\bin\Debug\MySql.Data.dll
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form5.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form6.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form7.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form10.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form11.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form12.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form8.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form9.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form13.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form14.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form15.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form16.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form17.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form18.resources
+C:\Users\Dell\Documents\sewmini\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form19.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\bin\Debug\19APP3906 -SMS.exe.config
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\19APP3906 -SMS.exe
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\19APP3906 -SMS.pdb
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\bin\Debug\19APP3906 -SMS.exe
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\bin\Debug\19APP3906 -SMS.pdb
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\19APP3906 -SMS.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form1.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form10.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form11.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form12.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form13.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form14.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form15.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form16.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form17.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form18.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form19.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form2.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form3.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form4.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form5.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form6.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form7.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form8.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Form9.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\_19APP3906__SMS.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\19APP3906 - IT PROJECT\project - sms\19APP3906 -SMS\19APP3906 -SMS\obj\Debug\19APP3906 -SMS.csproj.GenerateResource.Cache
